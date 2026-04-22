@@ -1,0 +1,12 @@
+<suite name="suite case1">
+	<test name="test case1">
+		<classes>
+			<class name="frameworkproperties.demo1"/>
+			<class name="frameworkproperties.regdemo1"/>
+			<class name="frameworkproperties.serachpagedemo"/>
+		
+		</classes>
+	
+	</test>
+
+</suite>
